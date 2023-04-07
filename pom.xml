@@ -16,6 +16,10 @@
             <id>velocity-snapshots</id>
             <url>https://nexus.velocitypowered.com/repository/velocity-artifacts-snapshots/</url>
         </repository>
+	<repository>
+            <id>paper</id>
+            <url>https://papermc.io/repo/repository/maven-public/</url>
+        </repository>
     </repositories>
 
     <build>
